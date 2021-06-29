@@ -11,6 +11,7 @@
     	Date of birth <input type="date" required><br><br>
     	Email <input type="email" placeholder="enter your email" required><br><br>
     	Password <input type="password" placeholder="create a password" required><br><br>
+               phone number <input type="number" placeholder="your phone number"><br><br>
     	<input type="submit"> 
     </form>
 </div>
