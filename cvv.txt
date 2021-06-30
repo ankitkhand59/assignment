@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> CV</title>
+
+<link rel="stylesheet" href="cvv.css" type="text/css">
+</head>
+
+<body>
+<div id="kol1"> 
+
+
+<pre>
+	<h1> welcome to CV</h1><hr>
+<h2><i>CONTACT</i></h2>
+  
+  Address
+  kathmandu,chabahil
+
+
+  phone
+  9818267671
+
+  Email
+  khandankit2@gmail.com
+
+  Profession
+  Student
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</pre>
+
+</div>
+
+
+<div id="kol2"> 
+<pre>
+	<h2><i><ins>PROFILE</ins></i></h2>
+ Hi! My name is Ankit Khand. I am a student. I love playing games as well as video games.
+ I am also fond of guitar.
+
+
+
+<h2><i><ins>ACADEMIC</ins></i></h2>
+
+<ins> year </ins>        <ins> subject </ins>          <ins>school/college</ins>
+ 2008-2018     schooling level    sathya sai shiksha sadan
+ 2018-2020     management          trinity college
+ 2020-present  Bsc computing       nami college	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</pre>
+
+</div>
