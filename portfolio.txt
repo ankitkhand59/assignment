@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+ <html>
+ <head>
+ 	<title>portfolio</title>
+ </head>
+
+ <body style="background-color:#e9d2ce;">
+ 	<link rel="stylesheet" type="text/css" href="portfolioo.css">
+  <div id="port1"> 
+	 <h2 style="color:blue;"><i>Image 1</h2></i>
+	<img src="22.jpg" alt="placeholder image">
+
+</pre>
+</div>
+
+
+<div id="port2"> 
+	<h2 style="color:blue;"><i>Image 2</h2></i>
+
+<img src="23.jpg" alt="placeholder image 2">
+
+
+
+</div>
+ </body>
+ </body>
+ </html>
