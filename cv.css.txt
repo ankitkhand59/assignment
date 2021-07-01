@@ -1,0 +1,21 @@
+#kol1
+    {
+     position:absolute;
+        left:0%;
+        width:50%;
+        background-color: #6fdf6f;           
+
+    }
+
+
+#kol2
+    {
+        
+        position:absolute;
+        left:50%;
+        width:50%;
+        border-style: solid;
+        background-color: #ff9d9d;
+
+
+    }
