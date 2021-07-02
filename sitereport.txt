@@ -1,0 +1,56 @@
+ <!DOCTYPE html>
+  <!DOCTYPE html>
+  <html>
+  <head>
+  	<title>sitereport</title>
+  </head>
+  <body style="background-color:#827b7d;">
+  	<pre>
+  <h1 style="color:#ff9800;"><ins>My Experience of learning the basics of web development.</ins></h1><b>	<h2><ins>
+  	2/07/2021</ins>
+ I am Ankit Khand currently doing a degree in BSc.Computing. I am in my first year.
+ So, the subjects here are totally new for me. One of the subjects that I have 
+ to study is web development.
+
+
+ First of all, I am totally new to the web development course.
+ Here, I am going to discuss my experience of learning this particular subject. 
+ To be honest, I had no idea what software do people use to make a simple website. 
+ After joining the college, I found out that software like visual code and sublime text helps in making the website. 
+ Moreover, I had joined college late, and during the class, I was not aware of anything that had been taught.
+ I was a bit nervous.When I was in the class, I could not even understand a single thing.
+ So, with the help of the internet, I learned the basic structure of Html. 
+ I was excited and motivated at the same time. 
+ I practiced everything from the scratch. While practicing, I encountered many simple errors like missing the closing tag.
+ I was glad when I could sort out the problems.
+ For inserting the images, I made a mistake several times. I used to miss the type of images like .jpg or .png while inserting the images.
+
+
+Taking everything into consideration, I would say it was fun learning the basics of Html. 
+I am still beginner and I am still learning web development.
+I hope someday I will make the worth learning of the web development.<hr></h2>
+  </pre>
+  <h1 style="color:#ff9800;"><ins>Reflective discussion of my Module experience</ins></h1>
+  <pre><h2>
+  <ins>	2/07/2021</ins>
+  I learned the basic structure of web page through this module. I was clueless about this topic but now 
+  I have gained some insights about it.Teachers were also co-operative to guide me through the process.
+  For choosing the design, I had no clue what to choose 
+  so, I randomly picked up the design which I saw fit.
+</pre></h2>	<hr>
+<pre><h1 style="color:#ff9800;"><ins>Screenshot</ins></h1>
+	<img src="ss1.png"alt="homepage" width="800" height="400">  <h1>homepage</h1>
+
+	<img src="ss10.png" alt="cv" width="800" height="400"> <h1>cv</h1>
+	
+	<img src="ss5.png" alt="contact" width="800" height="400"><h1>contact</h1>
+	
+	<img src="ss4.png" alt="portfolio" width="800" height="400"><h1>portfolio</h1>
+	
+</pre>
+  
+  </body>
+  </html>
+
+
+
