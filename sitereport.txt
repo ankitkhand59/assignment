@@ -39,18 +39,22 @@ I hope someday I will make the worth learning of the web development.<hr></h2>
   so, I randomly picked up the design which I saw fit.
 </pre></h2>	<hr>
 <pre><h1 style="color:#ff9800;"><ins>Screenshot</ins></h1>
-	<img src="ss1.png"alt="homepage" width="800" height="400">  <h1>homepage</h1>
+	<img src="scode/ss1.png"alt="homepage" width="800" height="400">  <h1>homepage</h1><img src="scode/homepage.png"alt="homepage source code" width="800" height="400"> <img src="scode/homcss.png" alt="css code" width="800" height="400"><hr>
 
-	<img src="ss10.png" alt="cv" width="800" height="400"> <h1>cv</h1>
+	<img src="scode/ss10.png" alt="cv" width="800" height="400"> <h1>cv</h1> <img src="scode/cv.png" alt="cv source code" width="800" height="400"> <img src="scode/cvcss.png" alt="cv css source code" width="800" height="400"><hr>
 	
-	<img src="ss5.png" alt="contact" width="800" height="400"><h1>contact</h1>
+	<img src="scode/ss5.png" alt="contact" width="800" height="400"><h1>contact</h1><hr>
 	
-	<img src="ss4.png" alt="portfolio" width="800" height="400"><h1>portfolio</h1>
+	<img src="scode/ss4.png" alt="portfolio" width="800" height="400"><h1>portfolio</h1> <img src="scode/port.png" alt="portfolio s code" width="800" height="400"> <img src="scode/portcss.png" alt="css source code" width="800" height="400">
 	
 </pre>
   
   </body>
   </html>
+
+
+
+
 
 
 
